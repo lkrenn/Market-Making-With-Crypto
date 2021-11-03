@@ -14,7 +14,7 @@ This spread is defined around a reservation price i.e. a price at which a market
   <img src="./img/r_price.png" width="350" title="hover text">
 </p>
 
-We can get an idea of how this model works by considering the following chart:
+We can get an idea of how this model works by considering the chart below. Red dots indicate that a market order has been submitted and has filled one of our ask-limit-orders. Similarly, a green dot indicates that a market order has filled one of our buy-limit-orders. 
 
 <p align="center">
   <img src="./img/sim.png" width="1000" title="hover text">
