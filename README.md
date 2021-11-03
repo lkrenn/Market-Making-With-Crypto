@@ -17,5 +17,5 @@ This spread is defined around a reservation price i.e. a price at which a market
 We can get an idea of how this model works by considering the following chart:
 
 <p align="center">
-  <img src="./img/sim.png" width="750" title="hover text">
+  <img src="./img/sim.png" width="1000" title="hover text">
 </p>
