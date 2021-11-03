@@ -19,3 +19,13 @@ We can get an idea of how this model works by considering the following chart:
 <p align="center">
   <img src="./img/sim.png" width="1000" title="hover text">
 </p>
+
+# Partial Results
+
+While the model still has a ways to go to be considered sufficient, the following chart demonstrates how it works thus far: 
+
+<p align="center">
+  <img src="./img/ETH_backtest.png" width="1000" title="hover text">
+</p>
+
+The ask-limit-order line appears to be covered by the mid-price line. This means that at this point in time, the model seeks to sell more inventory than buy. 
